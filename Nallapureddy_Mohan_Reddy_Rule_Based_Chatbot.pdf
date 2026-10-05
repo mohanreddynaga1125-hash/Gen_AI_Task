@@ -1,0 +1,296 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 11 0 R 14 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2520
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 769.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 150.6588 0 Td (MINI ASSESSMENT) Tj T* -150.6588 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 732.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Rule-Based Python Chatbot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 707.3701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Student Name:) Tj /F1 10.5 Tf ( Bole Mahendra) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 683.3701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Register Number:) Tj /F1 10.5 Tf ( 99230040498) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 659.3701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Programming Language:) Tj /F1 10.5 Tf ( Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 638.3701 cm
+Q
+q
+1 0 0 1 54.18898 619.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (1. Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 579.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (To develop a simple rule-based chatbot in Python that accepts user messages and provides predefined) Tj T* (responses based on the entered keywords.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 551.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (2. Concept) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 496.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (A rule-based chatbot works using predefined rules. The program checks the user's input and selects a) Tj T* (matching response. It does not learn from conversations; its responses are written in advance by the) Tj T* (programmer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 472.3701 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Basic flow: ) Tj /F2 10.5 Tf (User Input ) Tj /F3 10.5 Tf 15 TL (\256) Tj /F2 10.5 Tf 15 TL ( Rule Matching ) Tj /F3 10.5 Tf 15 TL (\256) Tj /F2 10.5 Tf 15 TL ( Predefined Response) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 444.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (3. Working) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 389.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (The chatbot continuously takes input from the user. It recognizes common messages such as greetings,) Tj T* (questions about its name, requests for help, and thanks. When the user enters bye or exit, the chatbot) Tj T* (stops.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+35 675 525 55 re
+f*
+0 0 0 rg
+BT
+/F1-0 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 50 712 Tm
+(Student Name\072 Nallapureddy Mohan Reddy) Tj
+T*
+ET
+BT
+1 0 0 1 50 694 Tm
+(Register Number\072 99230040690) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 862
+>>
+stream
+Gat$ugMWKG&:O:S9TU_c<C0gSfHa?p2-"O/+4?C?Wp[bC`qD<p96QZ5malXu6Ysg([R^\/F#dmqbV0=d@F[H]!R>.6\mW<?Lo8#mrW(r]E#s5k405kQ*r%:D:*LMa:]12?@,si06$9;B*K%WRJs(IU!CI+p(GMr-Z$tn,UF;l63/-56da",2lb(:m7qoLK9(#(E)rgU2\8=o1^<tDaVE]GGNISUX6NdMc9b`X/U0]rPR&V]9$R'.ZBJn7$#LPdl@*([#)'2P__%`%m[hE>H1sXrWL*3?`R#*7;8uBIf0RcCLC#">in::DlNQ.sG3O]dQ)m4H:O8]^--u,[h+KCj6MFi]S#2QdJhEPigoRK]1Kr!V_X^cBP0r_5RH0+%FpKJZtAV&4!/?oRT6Pob0gBFXn=B5,8:(NAC\Y+hu]#8FgmZ[o5HiP=Jd`)3Zb#=rM5#i]4"77&.7H(t(ijqK'Y!NC#5J9'Tf=V4Tk+[1^degGAEg+\7ZDV['h"KYu/Kj!t5+jk=/62MNNK$#"CH]d\oNZ!`i"^O?JTSghV,J2CmSRcif'+0S\#".^\271,7[A`t&quF3qn>J)''Ae"m@;A3\)aA,Fu@,<ZUEobpMBJEmmp6WB221)C>,L^.J`<n<bZV%)Yr2&M+rm>G7o:)=t^DbMQ)bERVnOf2O;ONk+D,9C1GPt#/+lt_tBD+)[,O#gQ\ferhQ"XJIc+,#oC["WR8AkEr'Tn<Gl@begkdK(,m%@K*Zd52B'E0,f,*+,4.EAA>r2MoTb0BJl#IGZG"4Fc(t,iAlFUJ)T-2FhR2mMpp4g-PR:=TNo:_\,pUl:hFY,:XdRL,=f,NR,TO;*SCemJ#Whtd?1?RW~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 752
+>>
+stream
+Gat=h5u66#&;BTK'ot]s>(Q!6SAaB<"JQ(!LU=RH*]Ncq]<uk-m[=]9I:o+hOCH_>EYQWeR5]&.^0Q;O+4:(c'l];nj!Oj^6F)3!JdBI7>U>%"J_4O/U-QZe4N;1u&&tqPE#j_O2JhdcX<9Q$0!AArKMgq:8$/9mZQPjZ0uoIda&e=d2QkC6;J!Af.P2U_YO@VO7.LAVL\YcK.mJH:`hS#B,UVmckMFSU,f$O`lB9M^flqqXh'@AcpMODQV+i8,UMM*5ltntY@O+>qfm8Gc#?qk92=[dtl1@;Gb-9O.SG2&!QYreYhTBiDW<pK(L5+%Z6[C<=&5L,(>mL8.2Y2]AcB&iJjb7kj\>HR]8%@,cUf-.U3L)H[\iG7G]B7ZmXH+8J=jd&=edZ-n$0+0%?[>JVT)7kn[m*<o&#noa$uF<$TJi%^W_fdAhiRN+YWZGJQg0o]GGrTfTcpM:9Q`coYNm5g:PT[og6g+k>KO5j3]&<2A">!0>P'M"\,T:`Zdp"D4?=U^LR2ZqG.dGpbf##%3t6M]c.h;K@f"\Gj(QafhZi$Le4JCHaU)n&MMs#+R5<9R7F%u+0H`fA<3$8\>NnX-9-1IS1CTC9?qEluECJGq/MBQKF\le;'eKd[*V"^n6al.'A-74g9MqMKV?N<I@[_AT\o9ZG9kgkA&"ZjLK'dfTkI?/qHcheAI<1L>R]UnuSa7:!891$ZTA1Yq.+d%XG8MFB[+gEB.Wo$ZHKJm"'F]EmRZiN'~>
+endstream
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000440 00000 n 
+0000003012 00000 n 
+0000003119 00000 n 
+0000003226 00000 n 
+0000003338 00000 n 
+0000003415 00000 n 
+0000003521 00000 n 
+0000003723 00000 n 
+0000004677 00000 n 
+0000004740 00000 n 
+0000004942 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+5786
+%%EOF
